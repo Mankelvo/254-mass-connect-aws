@@ -1,0 +1,46 @@
+[
+  {
+    "id": "dinner",
+    "title": "Kenyan Meal Gathering",
+    "description": "Share a taste of home over Kenyan food and conversation.",
+    "details": "A shared meal with familiar flavors and a warm welcome for new friends.",
+    "startsAt": null,
+    "location": "Massachusetts \u00b7 venue to be decided",
+    "imageFile": null,
+    "status": "proposed",
+    "createdAt": "2026-11-14T00:00:00Z"
+  },
+  {
+    "id": "cookout",
+    "title": "Community Cookout",
+    "description": "Good food, music, and time together outdoors.",
+    "details": "An idea for a relaxed cookout with space for conversation and friendly games.",
+    "startsAt": null,
+    "location": "Massachusetts \u00b7 venue to be decided",
+    "imageFile": null,
+    "status": "proposed",
+    "createdAt": "2026-11-14T00:00:00Z"
+  },
+  {
+    "id": "roadtrip",
+    "title": "254 Road Trip",
+    "description": "Explore New England and make memories along the way.",
+    "details": "A day out together. Destination, transport, and any costs would be shared before RSVPs open.",
+    "startsAt": null,
+    "location": "New England",
+    "imageFile": null,
+    "status": "proposed",
+    "createdAt": "2026-11-14T00:00:00Z"
+  },
+  {
+    "id": "games",
+    "title": "Game Night",
+    "description": "Friendly competition, laughter, and a few favorite games.",
+    "details": "An easygoing evening of board games, cards, and snacks for the community.",
+    "startsAt": null,
+    "location": "Massachusetts \u00b7 venue to be decided",
+    "imageFile": null,
+    "status": "proposed",
+    "createdAt": "2026-11-14T00:00:00Z"
+  }
+]
